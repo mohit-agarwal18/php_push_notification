@@ -25,7 +25,7 @@ public function index(){
 
 
 #API access key from Google API's Console
-    define( 'API_ACCESS_KEY', 'AAAAVDV3f1I:APA91bGh7JzeaozsKXwqYUSW8FAsj14pzEKgIJOVpBwWUXE_HVweHhmeHIpWiaexYwPAa2dhtNOKPGiIMiuEF8KhvI2EC1zs1gijYYOF8ofQfqNbZksai6PN0D_n6dgEwBM49d94dSXe' );
+    define( 'API_ACCESS_KEY', 'API KEY HERE' );
     $registrationIds = $_GET['id'];
 #prep the bundle
      $msg = array
